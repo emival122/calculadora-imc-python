@@ -34,8 +34,8 @@ O sistema não utiliza banco de dados ou arquivos externos, garantindo leveza, s
 
 ## 📘 Documentação
 Para mais detalhes sobre o funcionamento interno e o uso do sistema, consulte:
-- 📄 **Documentação Técnica:** `docs/tecnico.md`
-- 👤 **Manual do Usuário:** `docs/manual-usuario.md`
+* [📄 **Documentação Técnica**](./docs/tecnico.md): Estrutura do projeto, módulos e fluxo de dados.
+* [👤 **Manual do Usuário**](./docs/manual_usuario.md): Guia passo a passo para utilização do sistema.
 
 ---
 
@@ -51,10 +51,7 @@ Para mais detalhes sobre o funcionamento interno e o uso do sistema, consulte:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/emival122/calculadora-imc.git
-
-## Instale a dependência:
-pip install customtkinter
+git clone https://github.com/emival122/calculadora-imc-python.git
 
 
 ##
