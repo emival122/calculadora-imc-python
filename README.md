@@ -52,5 +52,3 @@ Para mais detalhes sobre o funcionamento interno e o uso do sistema, consulte:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/emival122/calculadora-imc-python.git
-
-#
